@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced_cs", "Advanced_cs\Advanced_cs.csproj", "{F33D2EF7-F595-4D55-B416-49BB6AC8C349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{6468BC68-367B-48A0-9758-AB34665AF657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33D2EF7-F595-4D55-B416-49BB6AC8C349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33D2EF7-F595-4D55-B416-49BB6AC8C349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33D2EF7-F595-4D55-B416-49BB6AC8C349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33D2EF7-F595-4D55-B416-49BB6AC8C349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6468BC68-367B-48A0-9758-AB34665AF657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6468BC68-367B-48A0-9758-AB34665AF657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6468BC68-367B-48A0-9758-AB34665AF657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6468BC68-367B-48A0-9758-AB34665AF657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBB2C3F-3139-464F-BA23-64BC98FFA371}
+	EndGlobalSection
+EndGlobal
